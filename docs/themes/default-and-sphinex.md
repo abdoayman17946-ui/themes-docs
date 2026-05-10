@@ -45,14 +45,7 @@ sidebar_position: 2
 ### Category Card
 
 ```css
-.default_category_card {
-}
 
-.default_category_card_img {
-}
-
-.default_category_card_name {
-}
 ```
 
 ![Category Card](./img/default_category_card.png)
